@@ -9,3 +9,31 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.base-count {
+    background-color: black;
+    width: 60rem;
+    height: 10rem;
+    border-radius: 3rem;
+}
+
+.imagenCount {
+    background-color: rgb(22, 22, 22);
+    width: 6rem;
+    height: 8rem;
+    border-radius: 1rem;
+    border: 2px solid rgb(41, 41, 41);
+}
+
+.counter {
+    background-color: rgb(22, 22, 22);
+    width: 5rem;
+    height: 8rem;
+    border-radius: 1rem;
+    border: 2px solid rgb(41, 41, 41);
+}
+
+.positionBtn {
+    position:absolute;
+    top: 150%;
+}
